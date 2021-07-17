@@ -1,0 +1,16 @@
+﻿{
+  "Name": "StardewDumper",
+  "Author": "SinZ163",
+  "Version": "1.0.0",
+  "Description": "Dumps information about the runtime to disk for purposes of wiki maintenance",
+  "UniqueID": "SinZ163.StardewDumper",
+  "EntryDll": "StardewDumper.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "Depenendencies": [
+    {
+      "UniqueID": "FlashShifter.StardewValleyExpandedALL",
+      "Required":  false
+    }
+  ]
+}
