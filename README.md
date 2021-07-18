@@ -1,6 +1,10 @@
 # Stardew Dumper
 This is intended for helping maintain ocmmunity wiki's for Stardew Valley
 
+## Dependencies
+To compile and build the Mod, requires Visual Studio 2019
+To run the Post Processing step, requires Node.JS LTS and Yarn installed
+
 ## Usage
 1. Compile and build the StardewDumper mod
 2. Launch Stardew Valley and load a save
